@@ -9,6 +9,7 @@
 ### 收藏系列  
 - [Tencent/tmt-workflow](https://github.com/Tencent/tmt-workflow) 腾讯的工作流 
 - [requests/requests](https://github.com/requests/requests) Python HTTP Requests for Humans  
+- [Web Scraping With Python](https://bitbucket.org/wswp/code/src/9e6b82b47087c2ada0e9fdf4f5e037e151975f0f?at=default) Python爬虫开发源码
 
 ### 博客系列
 - [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog)  冴羽写博客的地方，js系列博客
